@@ -1,0 +1,19 @@
+[33mcommit dceab5485b73cd07e53a222b071fda808c3fe1c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/consumer[m[33m)[m
+Author: mdanduprolu <mdanduprolu@deloitte.com>
+Date:   Wed Mar 19 07:25:52 2025 +0530
+
+    Add library events consumer
+
+[33mcommit 005df5aa70a9a9e8d00e9ad789bc6943f669343f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Madhava Varma Danduprolu <91651910+varmadanduprolu@users.noreply.github.com>
+Date:   Tue Mar 18 07:01:21 2025 +0530
+
+    Update .gitignore
+    
+    added for reference as repository
+
+[33mcommit 5d57ac413ad3ce83354f26c653cfa31618896e95[m
+Author: Madhav <varmadhanduprolu@gmail.com>
+Date:   Tue Mar 18 06:54:07 2025 +0530
+
+    Initial commit
